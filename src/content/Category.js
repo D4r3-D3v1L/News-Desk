@@ -1,10 +1,10 @@
-const categories = {
-	Business: "business",
-	Sports: "sports",
-	Health: "health",
-	Science: "science",
-	Technology: "technology",
-	General: "general",
-};
+const categories = [
+	"business",
+	"health",
+	"science",
+	"sports",
+	"technology",
+	"general",
+];
 
 export default categories;
