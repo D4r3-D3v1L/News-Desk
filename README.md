@@ -4,7 +4,7 @@
  + Design inspired by Inshorts web app 
 
 
-** Live demo is not possible because the news api only work in development **
+**Live demo is not possible because the news api only work in development**
 
 ## Snaps :
 
