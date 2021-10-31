@@ -2,11 +2,11 @@ import React from "react";
 import MenuDrawer from "./MenuDrawer";
 import "./Navbar.css";
 
-const Navbar = () => {
+const Navbar = ({ setCategory }) => {
 	return (
 		<div className="nav-bar">
 			<div className="menu-icon">
-				<MenuDrawer />
+				<MenuDrawer setCategory={setCategory} />
 			</div>
 			<div className="name_title">
 				<h1>
